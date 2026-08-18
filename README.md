@@ -332,16 +332,6 @@ University of Asia Pacific
 
 For detailed system architecture, methodology, hardware specifications, testing procedures, mathematical models, and experimental results, see the complete project report.
 
----
-
-## 📄 Course Information
-
-**Course:** Robotics Laboratory
-**Course Code:** CSE 438
-**Institution:** University of Asia Pacific
-**Year:** 2026
-
----
 
 ## ⭐ Project Highlights
 
